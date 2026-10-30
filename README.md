@@ -68,7 +68,7 @@ alert tcp any any -> $HOME_NET 80 (msg:"EDU TEST HTTP Access detected"; sid:1000
 
 The practical report includes setup steps, screenshots and validation evidence:
 
-- [`docs/pfSense-Project-Report.pdf`](docs/pfSense-Project-Report.pdf)
+- [`pfSense-Project-Report.pdf`](docs/pfSense-Project-Report.pdf)
 
 
 ## Skills demonstrated
